@@ -1,0 +1,19 @@
+body{
+    background-image: url(MinecraftBG.jpg);
+}
+
+div{
+    display: flex;
+    position: relative;
+    left: 547;
+}
+
+#M{
+    width: 500px;
+    position: relative;
+    left: 685px;
+}
+
+#txt{
+    text-align: center;
+}
